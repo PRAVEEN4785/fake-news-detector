@@ -2,6 +2,7 @@
 # 📰 Fake News Detection App
 
 A machine learning-powered web app that detects whether a news article is **real** or **fake**, built using Python, NLP, and Streamlit.
+https://fake-news-detector-6gftxds2es7yosqyttrqfp.streamlit.app/
 
 ## 🔍 Features
 - Takes user input of news content
