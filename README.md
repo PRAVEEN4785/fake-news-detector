@@ -28,3 +28,19 @@ A machine learning-powered web app that detects whether a news article is **real
 
 5.Run the app locally:
  streamlit run app.py
+🌐 Deploy on Streamlit Cloud
+Push the files to a public GitHub repository.
+
+Go to https://streamlit.io/cloud
+
+Click "New App" and connect your repo.
+
+Set the entry file to app.py and deploy!
+📚 Dataset
+Dataset used: Fake and Real News Dataset (Kaggle)
+🧠 Model Training
+Train your model using train_model.py script:
+
+python train_model.py
+This generates the model.pkl and vectorizer.pkl files needed for the app.
+
