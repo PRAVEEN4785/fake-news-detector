@@ -3,7 +3,6 @@ import joblib
 import string
 import nltk
 from nltk.corpus import stopwords
-from newspaper import Article
 
 nltk.download('stopwords')
 stop_words = set(stopwords.words('english'))
